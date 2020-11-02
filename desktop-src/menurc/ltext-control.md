@@ -29,7 +29,7 @@ LTEXT text, id, x, y, width, height [, style [, extended-style]]
 <span id="style"></span><span id="STYLE"></span>*style*
 </dt> <dd>
 
-Control styles. This value can be any combination of the **BS\_RADIOBUTTON** style and the following styles: **SS\_LEFT**, **WS\_TABSTOP**, and **WS\_GROUP**.
+Control styles. This value can be any combination of the following styles: **SS\_LEFT**, **WS\_TABSTOP**, and **WS\_GROUP**.
 
 If you do not specify a style, the default style is `SS_LEFT | WS_GROUP`.
 
